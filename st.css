@@ -43,19 +43,14 @@ body {
 }
 
 #tbox {
-	border-top: none;
-	border-bottom: 2px solid blue;
-	border-left: none;
-	border-right: none;
+	border: none;
 	border-radius: 5px;
 	margin-left: 70px;
 	width: 280px;
 	height: 30px;
+	box-shadow: 0 0 5px rgba(2, 111, 206, 0.9);
 }
 
-#tbox:hover {
-	border: 1px solid blue;
-}
 #btn {
 	margin-top: 13px;
 	margin-left: 70px;
