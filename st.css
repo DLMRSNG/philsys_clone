@@ -6,7 +6,7 @@ body {
 	padding-top: 10px;
 	padding-bottom: 10px;
 	padding-right: 100%;
-	background-color: rgb(65, 105, 225);
+	background-color: #1E4F94;
 }
 #logo {
 	margin-top: 10px;
@@ -30,7 +30,7 @@ body {
 	width: 395px;
 	height: 240px;
 	border: 1px solid grey;
-	background-color: rgb(176, 196, 222);
+	background-color: #CCE0FF;
 	float: right;
 }
 
