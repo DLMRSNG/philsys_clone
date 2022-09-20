@@ -1,0 +1,80 @@
+body {
+	margin-top: 0;
+}
+
+.panel {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 100%;
+	background-color: rgb(65, 105, 225);
+}
+#logo {
+	margin-top: 10px;
+	margin-left: 250px;
+	width: 170px;
+	height: 144px;
+}
+.philss {
+	float: left;
+	margin-left: 0px;
+}
+
+#ddd {
+	margin-top: 0px;
+	margin-left: 110px;
+}
+
+.box {
+	margin-top: 30px;
+	margin-right: 55px;
+	width: 395px;
+	height: 240px;
+	border: 1px solid grey;
+	background-color: rgb(176, 196, 222);
+	float: right;
+}
+
+#log {
+	font-family: arial;
+	font-size: 30px;
+	margin-top: 48px;
+	margin-bottom: 0px;
+	margin-left: 70px;
+}
+
+#tbox {
+	border-top: none;
+	border-bottom: 2px solid blue;
+	border-left: none;
+	border-right: none;
+	border-radius: 5px;
+	margin-left: 70px;
+	width: 280px;
+	height: 30px;
+}
+
+#tbox:hover {
+	border: 1px solid blue;
+}
+#btn {
+	margin-top: 13px;
+	margin-left: 70px;
+	border: none;
+	border-radius: 5px;
+	background-color: blue;
+	color: white;
+	width: 285px;
+	height: 30px;
+}
+
+#btn:hover{
+	border:1px solid white;
+}
+
+a {
+	display: block;
+	margin-top: 13px;
+	margin-left: 70px;
+	font-size: 13px;
+	text-decoration: none;
+}
